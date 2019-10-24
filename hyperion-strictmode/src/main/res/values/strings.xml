@@ -1,0 +1,4 @@
+<resources>
+    <string name="hyperion_strictmode_plugin_name">StrictMode</string>
+    <string name="hyperion_strictmode_plugin_description">Tap to activate StrictMode</string>
+</resources>
